@@ -1,0 +1,17 @@
+Beginning Tests...
+Method: KNN
+Normal Dataset Used: alpha SNR-15 TS-500
+Size of Training Set: 500
+Test Set Used: alpha SNR-15 normal along with alpha_sub SNR-15 anomaly instances
+Size of Test Set: 1000 (normal) 1000 (anomalous) 
+Neighbors: 10
+Avg f1 score: 0.683206106870229
+Max f1 score: 0.683206106870229
+Min f1 score: 0.683206106870229
+Avg acc score: 0.638
+Max acc score: 0.638
+Min acc score: 0.638
+Avg AUC score: 0.6905515
+Max AUC score: 0.6905515
+Min AUC score: 0.6905515
+Time: 14.163501399998495

@@ -1,0 +1,23 @@
+Beginning Tests...
+Method: KNN
+Normal Dataset Used: alpha SNR-25 TS-2000
+Size of Training Set: 2000
+Test Set Used: alpha SNR-25 normal along with alpha_sub SNR-25 anomaly instances
+Size of Test Set: 1000 (normal) 1000 (anomalous) 
+Neighbors: 10
+Avg f1 score: 0.9669669669669669
+Max f1 score: 0.9669669669669669
+Min f1 score: 0.9669669669669669
+Avg acc score: 0.967
+Max acc score: 0.967
+Min acc score: 0.967
+Avg AUC score: 0.9960180000000001
+Max AUC score: 0.9960180000000001
+Min AUC score: 0.9960180000000001
+Avg Precision score: 0.9707661290322581
+Max Precision score: 0.9707661290322581
+Min Precision score: 0.9707661290322581
+Avg Recall score: 0.966
+Max Recall score: 0.966
+Min Recall score: 0.966
+Time: 16.768007799983025

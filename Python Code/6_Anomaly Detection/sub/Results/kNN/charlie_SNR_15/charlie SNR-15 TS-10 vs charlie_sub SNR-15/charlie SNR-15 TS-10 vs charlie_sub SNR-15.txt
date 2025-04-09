@@ -1,0 +1,17 @@
+Beginning Tests...
+Method: KNN
+Normal Dataset Used: charlie SNR-15 TS-10
+Size of Training Set: 10
+Test Set Used: charlie SNR-15 normal along with charlie_sub SNR-15 anomaly instances
+Size of Test Set: 1000 (normal) 1000 (anomalous) 
+Neighbors: 10
+Avg f1 score: 0.9995002498750625
+Max f1 score: 0.9995002498750625
+Min f1 score: 0.9995002498750625
+Avg acc score: 0.9995
+Max acc score: 0.9995
+Min acc score: 0.9995
+Avg AUC score: 0.999
+Max AUC score: 0.999
+Min AUC score: 0.999
+Time: 14.875724200042896

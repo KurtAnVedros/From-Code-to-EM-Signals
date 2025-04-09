@@ -1,0 +1,17 @@
+Beginning Tests...
+Method: KNN
+Normal Dataset Used: alpha SNR-12 TS-10
+Size of Training Set: 10
+Test Set Used: alpha SNR-12 normal along with alpha_sub SNR-12 anomaly instances
+Size of Test Set: 1000 (normal) 1000 (anomalous) 
+Neighbors: 10
+Avg f1 score: 0.6682289922999666
+Max f1 score: 0.6682289922999666
+Min f1 score: 0.6682289922999666
+Avg acc score: 0.547
+Max acc score: 0.547
+Min acc score: 0.547
+Avg AUC score: 0.5565845
+Max AUC score: 0.5565845
+Min AUC score: 0.5565845
+Time: 13.14219630000298

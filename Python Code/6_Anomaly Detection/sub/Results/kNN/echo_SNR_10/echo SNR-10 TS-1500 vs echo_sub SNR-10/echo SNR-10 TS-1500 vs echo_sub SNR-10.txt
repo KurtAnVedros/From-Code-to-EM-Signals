@@ -1,0 +1,17 @@
+Beginning Tests...
+Method: KNN
+Normal Dataset Used: echo SNR-10 TS-1500
+Size of Training Set: 1500
+Test Set Used: echo SNR-10 normal along with echo_sub SNR-10 anomaly instances
+Size of Test Set: 1000 (normal) 1000 (anomalous) 
+Neighbors: 10
+Avg f1 score: 0.9024987751102401
+Max f1 score: 0.9024987751102401
+Min f1 score: 0.9024987751102401
+Avg acc score: 0.901
+Max acc score: 0.901
+Min acc score: 0.901
+Avg AUC score: 0.964332
+Max AUC score: 0.964332
+Min AUC score: 0.964332
+Time: 14.83347870002035

@@ -1,0 +1,17 @@
+Beginning Tests...
+Method: KNN
+Normal Dataset Used: delta SNR-20 TS-100
+Size of Training Set: 100
+Test Set Used: delta SNR-20 normal along with delta_sub SNR-20 anomaly instances
+Size of Test Set: 1000 (normal) 1000 (anomalous) 
+Neighbors: 10
+Avg f1 score: 0.999000999000999
+Max f1 score: 0.999000999000999
+Min f1 score: 0.999000999000999
+Avg acc score: 0.999
+Max acc score: 0.999
+Min acc score: 0.999
+Avg AUC score: 0.998
+Max AUC score: 0.998
+Min AUC score: 0.998
+Time: 15.15324250003323

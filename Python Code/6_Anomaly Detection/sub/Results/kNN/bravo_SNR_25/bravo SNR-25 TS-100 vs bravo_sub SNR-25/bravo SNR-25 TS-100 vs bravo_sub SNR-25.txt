@@ -1,0 +1,17 @@
+Beginning Tests...
+Method: KNN
+Normal Dataset Used: bravo SNR-25 TS-100
+Size of Training Set: 100
+Test Set Used: bravo SNR-25 normal along with bravo_sub SNR-25 anomaly instances
+Size of Test Set: 1000 (normal) 1000 (anomalous) 
+Neighbors: 10
+Avg f1 score: 0.9975062344139651
+Max f1 score: 0.9975062344139651
+Min f1 score: 0.9975062344139651
+Avg acc score: 0.9975
+Max acc score: 0.9975
+Min acc score: 0.9975
+Avg AUC score: 0.995
+Max AUC score: 0.995
+Min AUC score: 0.995
+Time: 15.341084200073965

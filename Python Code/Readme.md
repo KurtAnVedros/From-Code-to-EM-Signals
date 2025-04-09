@@ -1,4 +1,4 @@
-#This folder contains all the code for the experiments done for "From Code to EM Signals" paper.
+# This folder contains all the code for the experiments done for "From Code to EM Signals" paper.
 
 This repository is organized as follows:
 - 0_Converting CSV to Numpy: Read the original csv files obtained from the digitizer oscilloscope. Then, the signals are disected for the interested program. Note that the programs are surrounded by nopes to avoid any complications of outside interference not related to the program of interenst. Once the program is identifyed, the full program signals are extracted and saved as numpy files.
